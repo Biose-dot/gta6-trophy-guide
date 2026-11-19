@@ -1,1 +1,5 @@
-[{"file":"1-cover.jpg","view":"Checklist overview: progress 12/55, kind filters, official names/descriptions/grades, and the missable trophy's guide open beside the list","viewport":{"height":800,"width":1280}},{"file":"2-guide.jpg","path":"/#trophy=21","view":"A trophy guide open beside the list (Stick Fiddler): guide, steps, roadmap stage and sources all visible","viewport":{"height":800,"width":1280}},{"file":"3-roadmap.jpg","path":"/#view=roadmap","view":"Roadmap to the platinum: six stages with missable flags, times and trophy lists","viewport":{"height":800,"width":1280}},{"file":"4-spoiler.jpg","path":"/#spoiler=on","view":"Spoiler mode on: un-earned story trophies masked, earned ones revealed, missable trophy guide still open","viewport":{"height":800,"width":1280}}]
+[
+  { "file": "1-checklist.jpg", "path": "/", "viewport": { "width": 1280, "height": 800 } },
+  { "file": "2-silver.jpg", "path": "/", "grade": "silver", "viewport": { "width": 1280, "height": 800 } },
+  { "file": "3-bronze.jpg", "path": "/", "grade": "bronze", "scroll": 1400, "viewport": { "width": 1280, "height": 800 } }
+]
