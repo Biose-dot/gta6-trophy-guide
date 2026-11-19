@@ -1,5 +1,1 @@
-[
-  { "file": "1-checklist.jpg", "path": "/", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "2-silver.jpg", "path": "/", "grade": "silver", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "3-bronze.jpg", "path": "/", "grade": "bronze", "scroll": 1400, "viewport": { "width": 1280, "height": 800 } }
-]
+[{"file":"1-cover.jpg","notes":"Checklist view with progress under way (9 of 55 earned), filters visible and the missable trophy flagged in the list.","path":"/?earned=2,3,4,5,8,14,15,17,28","viewport":{"height":800,"width":1280}},{"file":"2-guide.jpg","notes":"A trophy guide open in the detail panel: Positive Mental Attitude, the game's one missable trophy, with its steps and cited sources.","path":"/?earned=2,3,28&open=28","viewport":{"height":800,"width":1280}},{"file":"3-roadmap.jpg","notes":"The roadmap view: six stages to the platinum, built from the official descriptions, with the missable warning in stage 1.","path":"/?view=roadmap&earned=2,3,28","viewport":{"height":800,"width":1280}},{"file":"4-spoiler.jpg","notes":"Spoiler mode on: story trophies not yet earned show as Hidden story trophy, while earned ones (Just Like Paradise, Paradise Lost) are revealed.","path":"/?spoiler=1&earned=2,3","viewport":{"height":800,"width":1280}}]

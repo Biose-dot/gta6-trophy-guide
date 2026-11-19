@@ -1,0 +1,6 @@
+# Local hand-in output (node main.ts writes here when MAKEFUN_OUTPUT_DIR=out)
+out/
+
+# OS and editor noise
+.DS_Store
+*.swp
